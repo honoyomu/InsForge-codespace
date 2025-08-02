@@ -8,10 +8,15 @@
     "saoudrizwan.claude-dev"
   ],
   "postStartCommand": "docker compose up",
-  "forwardPorts": [7131],
-    "portsAttributes": {
+  "forwardPorts": [7130, 7131],
+  "portsAttributes": {
     "7130": {
-      "onAutoForward": "ignore"
+      "visibility": "public",
+      "label": "InsForge API"
+    },
+    "7131": {
+      "visibility": "public", 
+      "label": "InsForge Dashboard"
     }
   }
 }
