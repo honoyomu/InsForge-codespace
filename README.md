@@ -129,5 +129,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 [![Star History Chart](https://api.star-history.com/svg?repos=InsForge/insforge&type=Date)](https://www.star-history.com/#InsForge/insforge&Date)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/honoyomu/InsForge-codespace?quickstart=1&m&machine=large)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/honoyomu/InsForge-codespace?quickstart=1&m&machine=4-core)
 
